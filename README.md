@@ -1,2 +1,2 @@
-# DNA_Ver2
+# DNA_Ver1
 ต้วอย่าง Code DNA
